@@ -117,25 +117,3 @@ int CHash::H_function(int info, int age)
             return (info + age) %  tb_size;
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
